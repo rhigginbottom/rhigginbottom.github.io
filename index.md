@@ -3,4 +3,9 @@ layout: default
 title: "Dr. Ryan Higginbottom"
 ---
 
-I'm wondering how this **goes**.
+You should be able to find the latest version of my linear algebra textbook linked here. There are three options for format.
+* HTML
+* PDF (for viewing on a screen)
+* PDF (for printing)
+
+Please let me know if you have questions.
