@@ -8,6 +8,6 @@ You should be able to find the latest version of my linear algebra textbook link
 * [PDF](la-book-screen.pdf) (for viewing on a screen)
 * [PDF](la-book-print.pdf) (for printing)
 
-The date for the latest version of the book is 27 January 2024.
+The date for the latest version of the book is 30 January 2024.
 
 Please let me know if you have questions.
