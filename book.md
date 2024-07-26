@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Linear Algebra: Gathering and Sharpening Tools"
-permalink: /book
 ---
 
 You should be able to find the latest version of my linear algebra textbook linked here. There are three options for format.
