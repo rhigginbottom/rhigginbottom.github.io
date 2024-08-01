@@ -9,4 +9,4 @@ Here are links to the latest version of my linear algebra textbook. You may choo
 * [PDF](la-book-screen.pdf) (for viewing on a screen)
 * [PDF](la-book-print.pdf) (for printing)
 
-The book was most recently updated on 13 May 2024.
+The book was most recently updated on 1 August 2024.
